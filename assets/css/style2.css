@@ -1,0 +1,13 @@
+.navbar-brand img {
+  width: 60px;
+  border-radius: 50%;
+}
+
+table img {
+  height: 70px;
+  object-fit: cover;
+}
+
+.form-group img {
+  height: 100px;
+}
